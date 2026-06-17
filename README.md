@@ -1,68 +1,71 @@
-Technical Art breakdown:
+**Technical Art breakdown:**
 
 https://youtu.be/EF-soABgX_M
 
 ----
 
-Animation: 
+**Animation:** 
 
 https://youtu.be/fNld-hA1plc 
 
 ----
-Technical Skills Demonstrated:
+**Technical Skills Demonstrated:**
 
-  Character Modeling
+  -Character Modeling
   
-  Character Texturing
+  -Character Texturing
   
-  Rigging (Rigify)
+  -Rigging (Rigify)
   
-  IK/FK Workflows
+  -IK/FK Workflows
   
-  Weight Painting
+  -Weight Painting
   
-  Character Animation
+  -Character Animation
 
-  Blender Python Scripting
+  -Blender Python Scripting
   
-  Tool Development
+  -Tool Development
   
-  Workflow Automation
+  -Workflow Automation
   
-  Camera Systems
+  -Camera Systems
 
 ----
-Custom Tools Developed:
 
-Facial Expression Tool:
+**Custom Tools Developed:**
 
-  One-click facial expression presets
+  **Facial Expression Tool:**
   
-  Automated eyebrow, eye, and lip controls
+    -One-click facial expression presets
+    
+    -Automated eyebrow, eye, and lip controls
+    
+    -Automatic keyframe insertion
+    
+  **Root Motion Generator:**
   
-  Automatic keyframe insertion
+    -Generates continuous root motion loops
+    
+    -Calculates root displacement across animation cycles
+    
+    -Automates looping locomotion animations
+    
+  **Combat Camera Assistant:**
   
-Root Motion Generator:
-
-  Generates continuous root motion loops
-  
-  Calculates root displacement across animation cycles
-  
-  Automates looping locomotion animations
-  
-Combat Camera Assistant:
-
-  Dynamic tracking cameras
-  
-  Wide shot and bird's-eye presets
-  
-  Character close-up and full-body tracking
-  
-  Automatic target generation and camera constraints
-  
+    -Dynamic tracking cameras
+    
+    -Wide shot and bird's-eye presets
+    
+    -Character close-up and full-body tracking
+    
+    -Automatic target generation and camera constraints
+    
   ----
   
-Software Used:
-  Blender
-  Python (with bpy API)
+**Software Used:**
+
+  -Blender
+  
+  - Python (with bpy API)
   
