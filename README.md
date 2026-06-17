@@ -40,24 +40,18 @@ https://youtu.be/fNld-hA1plc
     - One-click facial expression presets
     
     - Automated eyebrow, eye, and lip controls
-    
-    - Automatic keyframe insertion
-    
+
   **Root Motion Generator:**
-  
-    - Generates continuous root motion loops
+
+    - Generates continuous root motion loops to move the actor forward during walk cycles
     
     - Calculates root displacement across animation cycles
-    
-    - Automates looping locomotion animations
     
   **Combat Camera Assistant:**
   
     - Dynamic tracking cameras
     
-    - Wide shot and bird's-eye presets
-    
-    - Character close-up and full-body tracking
+    - Wide shot and bird's-eye presets, character close-up and full-body tracking
     
     - Automatic target generation and camera constraints
     
