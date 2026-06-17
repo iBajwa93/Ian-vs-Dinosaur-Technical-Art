@@ -33,7 +33,7 @@ https://youtu.be/fNld-hA1plc
 
 ----
 
-<u> **Custom Tools Developed:** </u>
+**Custom Tools Developed:** 
 
   **Facial Expression Tool:**
   
