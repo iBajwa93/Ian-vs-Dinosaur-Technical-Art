@@ -11,25 +11,25 @@ https://youtu.be/fNld-hA1plc
 ----
 **Technical Skills Demonstrated:**
 
-  -Character Modeling
+  - Character Modeling
   
-  -Character Texturing
+  - Character Texturing
   
-  -Rigging (Rigify)
+  - Rigging (Rigify)
   
-  -IK/FK Workflows
+  - IK/FK Workflows
   
-  -Weight Painting
+  - Weight Painting
   
-  -Character Animation
+  - Character Animation
 
-  -Blender Python Scripting
+  - Blender Python Scripting
   
-  -Tool Development
+  - Tool Development
   
-  -Workflow Automation
+  - Workflow Automation
   
-  -Camera Systems
+  - Camera Systems
 
 ----
 
@@ -37,35 +37,35 @@ https://youtu.be/fNld-hA1plc
 
   **Facial Expression Tool:**
   
-    -One-click facial expression presets
+    - One-click facial expression presets
     
-    -Automated eyebrow, eye, and lip controls
+    - Automated eyebrow, eye, and lip controls
     
-    -Automatic keyframe insertion
+    - Automatic keyframe insertion
     
   **Root Motion Generator:**
   
-    -Generates continuous root motion loops
+    - Generates continuous root motion loops
     
-    -Calculates root displacement across animation cycles
+    - Calculates root displacement across animation cycles
     
-    -Automates looping locomotion animations
+    - Automates looping locomotion animations
     
   **Combat Camera Assistant:**
   
-    -Dynamic tracking cameras
+    - Dynamic tracking cameras
     
-    -Wide shot and bird's-eye presets
+    - Wide shot and bird's-eye presets
     
-    -Character close-up and full-body tracking
+    - Character close-up and full-body tracking
     
-    -Automatic target generation and camera constraints
+    - Automatic target generation and camera constraints
     
   ----
   
 **Software Used:**
 
-  -Blender
+  - Blender
   
   - Python (with bpy API)
   
