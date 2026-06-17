@@ -8,6 +8,7 @@ Animation:
 
 https://youtu.be/fNld-hA1plc 
 
+----
 Technical Skills Demonstrated:
 
   Character Modeling
